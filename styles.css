@@ -1,0 +1,18 @@
+@media (min-width: 992px) {
+    
+  }
+
+img{
+    margin: 15px;
+    
+    border:2px solid grey;
+    width: 85%;
+}
+
+#fixednav   {
+ 
+    background-color: rgb(65, 14, 14);
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */}
+
